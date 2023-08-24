@@ -8,7 +8,7 @@ const Stats = () => {
   // TODO think about persisting this somewhere
   const fetchData = useCallback(async () => {
     // request must be authenticated if private
-    const res = await fetch("https://api.github.com/repos/joshex150/Api_bank");
+    const res = await fetch("https://api.github.com/repos/joshex150/portfolio");
     const resData = await res?.json();
     setResponseData(
       initialData.map((field) => ({
