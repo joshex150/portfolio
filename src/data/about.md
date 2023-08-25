@@ -13,11 +13,12 @@ I'm a computer engineer who crafts exceptional digital experiences, with a focus
 
 # Courses and Certificates
 
-Full-stack Web Development, CITE UNIPORT
-Jun 2021 - Oct 2021
-Python/Data Science, CITE UNIPORT
-Mar 2022 - Sep 2022
-British Council English Certified
+- Full-stack Web Development, CITE UNIPORT
+  Jun 2021 - Oct 2021
+- Python/Data Science, CITE UNIPORT
+  Mar 2022 - Sep 2022
+- British Council English Certified
+
 Feel free to ask me in person about stories I'm hesitant to share online.
 
 # Interests
