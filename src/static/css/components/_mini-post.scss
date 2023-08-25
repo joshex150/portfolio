@@ -18,8 +18,8 @@
       font-size: 0.9rem;
       margin: 0;
       padding: 1.25em;
-      background-color: rgba(255, 255, 255, 0.7);
-      color: #3c3b3b;
+      background: rgba(13, 13, 13, 0.383);
+      color: _palette(bg-alt);
       font-family: "Raleway", Helvetica, sans-serif;
       z-index: 1000;
       transition: all 0.1s;
@@ -27,7 +27,8 @@
     }
 
     p:hover {
-      background-color: rgba(255, 255, 255, 0.9);
+      background-color: rgba(0, 0, 0, 0.359);
+      transform: scale(1.005);
     }
   }
 

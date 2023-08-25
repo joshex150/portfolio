@@ -1,0 +1,32 @@
+@media (prefers-color-scheme: light) {
+  body {
+    background: rgb(255, 255, 255);
+  }
+  body,
+  input,
+  select,
+  textarea,
+  button,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  a,
+  input[type="submit"],
+  input[type="reset"],
+  input[type="button"],
+  button,
+  .button {
+    color: black;
+  }
+  .post {
+    background: #e3e3e3cb;
+  }
+  #header,
+  .bm-menu,
+  .mini-post {
+    background: #e3e3e3fa;
+  }
+}
