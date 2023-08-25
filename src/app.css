@@ -29,4 +29,11 @@
   .mini-post {
     background: #e3e3e3fa;
   }
+  .cell-container .description p {
+    background: #e3e3e3a2;
+    color: black;
+  }
+  .cell-container .description p:hover {
+    background: #e3e3e380;
+  }
 }
