@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 import Markdown from "markdown-to-jsx";
-
+import mePdf from "../data/me.pdf";
 import Main from "../layouts/Main";
 
 const About = () => {
@@ -31,7 +31,12 @@ const About = () => {
             <p>(in about {count} words)</p>
           </div>
         </header>
-        <Markdown>{markdown}</Markdown>
+        <Markdown>{markdown}</Markdown> <br />
+        <a href={mePdf} download="Joshua Christian's CV.pdf" className="button">
+          Download Resume
+        </a>
+        <br />
+        <br />
       </article>
     </Main>
   );

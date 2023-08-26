@@ -1,6 +1,6 @@
 # Intro
 
-Greetings! I'm a highly skilled web developer with a deep understanding of advanced web development. I bring a wealth of expertise to every project, encompassing the entire spectrum from user interface design to testing and debugging. My proficiency spans design, installation, testing, and maintenance of web systems. I possess versatile skills across various technologies like JavaScript, TypeScript, React, Vite, Node.js, Express.js, HTML, CSS, MongoDB, Firebase, and SQL. My strengths shine whether I'm working solo on independent projects or collaborating as a vital team player.
+Greetings! I'm a highly skilled freelance web developer with a deep understanding of advanced web development. I bring a wealth of expertise to every project, encompassing the entire spectrum from user interface design to testing and debugging. My proficiency spans design, installation, testing, and maintenance of web systems. I possess versatile skills across various technologies like JavaScript, TypeScript, React, Vite, Node.js, Express.js, HTML, CSS, MongoDB, Firebase, and SQL. My strengths shine whether I'm working solo on independent projects or collaborating as a vital team player.
 
 # Wait there's more
 
