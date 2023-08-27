@@ -13,9 +13,7 @@ const Index = () => (
     <article className="post" id="index">
       <header>
         <div className="title">
-          <h2>
-            <a href="/">Welcome 🧍‍♂️</a>
-          </h2>
+          <h2>Welcome 🧍‍♂️</h2>
         </div>
       </header>
       <header>

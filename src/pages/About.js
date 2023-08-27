@@ -6,7 +6,7 @@ import Main from "../layouts/Main";
 
 const About = () => {
   const [markdown, setMarkdown] = useState("");
-
+  const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent);
   useEffect(() => {
     import("../data/about.md").then((res) => {
       fetch(res?.default)
@@ -33,7 +33,7 @@ const About = () => {
         </header>
         <Markdown>{markdown}</Markdown> <br />
         <a href={mePdf} download="Joshua Christian's CV.pdf" className="button">
-          Download Resume
+          {isIOS ? "Tap and Hold to Download Resume" : "Download Resume"}
         </a>
         <br />
         <br />
