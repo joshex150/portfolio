@@ -5,13 +5,12 @@
 ///
 
 /* Menu */
-
+.bm-overlay,
+.bm-menu-wrap {
+  transition: all ease-in-out 0.3s !important;
+}
 #menu {
   @include vendor("transform", "translateX(#{_size(menu)})");
-  @include vendor(
-    "transition",
-    ("transform #{_duration(menu)} ease", "visibility #{_duration(menu)}")
-  );
   -webkit-overflow-scrolling: touch;
   background: _palette(bg);
   border-left: solid 1px _palette(border);
@@ -25,6 +24,7 @@
   visibility: hidden;
   width: _size(menu);
   z-index: _misc(z-index-base) + 2;
+  transition: transform ease-in-out 0.3s;
 
   > * {
     border-top: solid 1px _palette(border);

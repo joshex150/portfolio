@@ -29,7 +29,7 @@ const Hamburger = () => {
         </ul>
       </nav>
       <Suspense fallback={<></>}>
-        <Menu right isOpen={open}>
+        <Menu right isOpen={open} style={{ transition: "all ease-in-out 1s" }}>
           <ul className="hamburger-ul">
             {routes.map((l) => (
               <li key={l.label}>
