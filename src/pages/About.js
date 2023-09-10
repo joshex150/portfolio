@@ -33,7 +33,7 @@ const About = () => {
         </header>
         <Markdown>{markdown}</Markdown> <br />
         <a href={mePdf} download="Joshua Christian's CV.pdf" className="button">
-          {isIOS ? "Tap and Hold to Download Resume" : "Download Resume"}
+          {isIOS ? "Get Resume" : "Download Resume"}
         </a>
         <br />
         <br />
