@@ -2,6 +2,10 @@
   body {
     background: rgb(255, 255, 255);
   }
+  #tsparticles {
+    visibility: hidden;
+    opacity: 0;
+  }
   body,
   input,
   select,

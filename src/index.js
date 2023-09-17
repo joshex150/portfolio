@@ -1,15 +1,16 @@
-import React from 'react';
-import { createRoot, hydrateRoot } from 'react-dom/client';
-import App from './App';
+import React from "react";
+import { createRoot, hydrateRoot } from "react-dom/client";
+import App from "./App";
+import Particle from "./layouts/Particle";
 
-// See https://reactjs.org/docs/strict-mode.html
 const StrictApp = () => (
   <React.StrictMode>
+    <Particle />
     <App />
   </React.StrictMode>
 );
 
-const rootElement = document.getElementById('root');
+const rootElement = document.getElementById("root");
 
 // hydrate is required by react-snap.
 if (rootElement.hasChildNodes()) {

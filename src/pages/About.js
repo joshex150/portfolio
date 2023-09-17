@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import Markdown from "markdown-to-jsx";
 import mePdf from "../data/me.pdf";
 import Main from "../layouts/Main";
-
+import Particle from "../layouts/Particle";
 const About = () => {
   const [markdown, setMarkdown] = useState("");
   const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent);
