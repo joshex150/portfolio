@@ -29,9 +29,15 @@ const data = [
     value: "0", // enforced via github workflow
   },
   {
-    label: "Open github issues",
-    key: "open_issues_count",
+    label: "Size",
+    key: "size",
     link: "https://github.com/joshex150/portfolio",
+  },
+  {
+    label: "Created at",
+    key: "created_at",
+    link: "https://github.com/joshex150/portfolio",
+    format: (x) => dayjs(x).format("MMMM DD, YYYY"),
   },
   {
     label: "Last updated at",
