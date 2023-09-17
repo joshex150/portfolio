@@ -12,7 +12,6 @@
   },
   "scripts": {
     "build": "rimraf ./build && react-scripts build",
-    "deploy": "firebase deploy",
     "start": "react-scripts start",
     "analyze": "npm run build && source-map-explorer build/static/js/*.chunk.js"
   },

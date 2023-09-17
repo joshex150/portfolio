@@ -26,7 +26,7 @@ const data = [
   {
     title: "Primar (in progress)",
     subtitle: "A delivery store.",
-    link: "https://primar-web.vercel.app",
+    link: "https://prima-web.vercel.app",
     image: "/images/projects/Primar-web.png",
     date: "2023-08-28",
     desc: "Immerse yourself in the world of Primar, a cutting-edge delivery store, meticulously crafted using React-JS and CSS. With a tech stack that includes a variety of essential tools, this project showcases my prowess in frontend development. From its sleek user interface to its intuitive user experience, Primar sets a new standard for online delivery platforms.",
