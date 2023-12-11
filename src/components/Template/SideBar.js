@@ -1,7 +1,7 @@
 import React from "react";
 import { Link, useLocation } from "react-router-dom";
-
 import ContactIcons from "../Contact/ContactIcons";
+import ImageRem from "../../layouts/Image";
 
 const { PUBLIC_URL } = process.env; // set automatically from package.json:homepage
 const SideBar = () => {
@@ -10,7 +10,7 @@ const SideBar = () => {
     <section id="sidebar">
       <section id="intro">
         <Link to="/" className="logo">
-          <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
+          <ImageRem src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
         </Link>
         <header>
           <h2>JOSHUA CHRISTIAN</h2>

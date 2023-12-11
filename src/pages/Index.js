@@ -30,11 +30,12 @@ const Index = () => {
         </header>
         <p>
           {" "}
-          Welcome to my website. Please feel free to read more{" "}
-          <Link to="/about">about me</Link>, checkout my{" "}
-          <Link to="/projects">projects</Link>, view{" "}
+          Welcome to my website, for a better experience turn on your device's
+          Dark Mode. Feel free to read more <Link to="/about">about me</Link>,
+          checkout my <Link to="/projects">projects</Link>, view{" "}
           <Link to="/stats">site statistics</Link>, or{" "}
-          <Link to="/contact">contact</Link> me.
+          <Link to="/contact">contact</Link> me and lastly, you can zoom into
+          the stars for a surprise{" 😉"}
         </p>
       </article>
     </Main>

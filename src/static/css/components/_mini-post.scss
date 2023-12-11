@@ -51,7 +51,7 @@
   .image {
     overflow: hidden;
     width: 100%;
-    min-height: auto;
+    min-height: 100%;
     img {
       @include vendor(
         "transition",
