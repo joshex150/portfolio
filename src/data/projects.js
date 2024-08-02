@@ -1,12 +1,12 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: "Primar Market (Launch January 2024)",
+    title: "Primar Market (Launched January 2024)",
     subtitle: "A delivery store.",
     link: "https://primar-market.vercel.app",
-    image: "/images/projects/Primar-market.webp",
+    image: "/images/projects/Primar-mark.webp",
     date: "2023-12-11",
-    desc: "Immerse yourself in the world of Primar, a cutting-edge delivery store, meticulously crafted using React-JS and TailwindCSS. With a tech stack that includes a variety of essential tools, this project showcases my prowess in frontend development. From its sleek user interface to its intuitive user experience, Primar sets a new standard for online delivery platforms.",
+    desc: "Primar is a delivery technology company based in Nigeria, dedicated to bridging the gap between farmers, markets, and customers. We specialize in delivering farm-fresh products from local farmers and markets directly to customers in close proximity, ensuring that you have access to the freshest, healthiest, and most sustainably sourced produce right at your doorstep, all with unprecedented convenience.",
   },
   {
     title: "Primar Meals (in progress)",
@@ -38,6 +38,14 @@ const data = [
     image: "/images/projects/primar.webp",
     date: "2023-06-28",
     desc: "Dive into the dynamic world of store management with 'Primar,' a cutting-edge dashboard designed to streamline operations. The backend is powered by an array of technologies including ExpressJS, MongoDB for data storage, and Socket.IO for real-time communication. Utilizing tools like JSON Web Tokens, Nodemailer, and Crypto-JS, the backend is fortified with security and seamless functionality. The frontend, built with React, showcases a responsive and intuitive user interface. With Framer Motion for engaging animations, React Router for smooth navigation, and Vite for optimized performance, Primar offers an unparalleled user experience. Explore 'Primar' and witness the fusion of backend prowess and frontend finesse.",
+  },
+  {
+    title: "Foxcom Synergy LTD",
+    subtitle: "An oil and Gas industry servicing company",
+    link: "https://foxcomsynergy.com",
+    image: "/images/projects/foxcom.png",
+    date: "2023-06-28",
+    desc: "The best delivering services to the oil and gas industry EPCI, Oil Spill Recovery and Environmental Control, as well as leasing of heavy Equipment, Manpower consultancy, Subsea Engineering not just for today but for Generations to come.",
   },
 ];
 
