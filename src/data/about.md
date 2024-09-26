@@ -1,10 +1,23 @@
-# Intro
+### Introduction
 
-Greetings! I'm a highly skilled freelance web developer with a deep understanding of advanced web development. I bring a wealth of expertise to every project, encompassing the entire spectrum from user interface design to testing and debugging. My proficiency spans design, installation, testing, and maintenance of web systems. I possess versatile skills across various technologies like JavaScript, TypeScript, React, Vite, Node.js, Express.js, HTML, CSS, MongoDB, Firebase, and SQL. My strengths shine whether I'm working solo on independent projects or collaborating as a vital team player.
+Hello! I'm a seasoned freelance web developer and computer engineer, passionate about crafting high-quality digital solutions that make a real impact. With expertise spanning advanced web development, I bring a complete skill set to every project—from designing user-friendly interfaces to handling rigorous testing and maintenance. My technical proficiency covers a wide array of modern technologies, including JavaScript, TypeScript, React, Vite, Node.js, Express.js, HTML, CSS, MongoDB, Firebase, and SQL.
 
-# Wait there's more
+Whether I'm building from the ground up or collaborating within a team, my versatility shines through. I’m equally comfortable leading independent projects or integrating seamlessly into a larger development group to achieve shared goals.
 
-I'm a computer engineer who crafts exceptional digital experiences, with a focus on accessibility and user-centered design. My programming journey has led me to fluency in HTML, CSS, JavaScript, TypeScript, Python, and PHP. My passion lies in constructing new websites and web apps that answer real needs.
+---
+
+### Beyond Web Development
+
+As a computer engineer, I specialize in creating exceptional digital experiences with a focus on accessibility and user-centered design. My programming journey has made me fluent in languages like HTML, CSS, JavaScript, TypeScript, Python, and PHP. My passion lies in designing and building websites and web apps that cater to real-world needs—solutions that not only function efficiently but also prioritize the end user’s experience.
+
+---
+
+### About YEAN Technologies
+
+In addition to my freelance work, I am the founder of [**YEAN Technologies**](https://yeantech.com)
+, a startup that focuses on delivering cutting-edge software development and hardware solutions to businesses of all sizes. At YEAN Technologies, we are driven by a mission to empower companies with innovative digital solutions that boost operational efficiency and drive long-term growth. Our vision is to become a global leader in the technology sector, providing bespoke software and IT infrastructure that fuel digital transformation across various industries.
+
+---
 
 # Education
 
