@@ -10,7 +10,7 @@ const SideBar = () => {
     <section id="sidebar">
       <section id="intro">
         <Link to="/" className="logo">
-          <ImageRem src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
+          <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
         </Link>
         <header>
           <h2>JOSHUA CHRISTIAN</h2>
