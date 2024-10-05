@@ -24,10 +24,10 @@ const SideBar = () => {
         <section className="blurb">
           <h2>About</h2>
           <p>
-            Hi, I'm JOSHUA, a graduate of
-            <a href="https://www.abuad.edu.ng">Afe Babalola University</a>
-            with a degree in Computer Engineering. I am a passionate full stack
-            web developer, proficient in JavaScript, TypeScript, React, Vite,
+            Hi, I'm JOSHUA, a graduate of{" "}
+            <a href="https://www.abuad.edu.ng">Afe Babalola University</a> with
+            a degree in Computer Engineering. I am a passionate full stack web
+            developer, proficient in JavaScript, TypeScript, React, Vite,
             Node.js, Express.js, HTML, CSS, MongoDB, Firebase, and SQL. My
             expertise spans both front-end and back-end development, thriving in
             dynamic environments where I contribute across the entire software
