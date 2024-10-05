@@ -34,7 +34,7 @@ const SideBar = () => {
             development lifecycle.
           </p>
 
-          <p>
+          {/* <p>
             On the front-end, I specialize in transforming designs into
             responsive, visually appealing user interfaces using JavaScript,
             TypeScript, HTML, and CSS, all while leveraging modern frameworks
@@ -54,7 +54,7 @@ const SideBar = () => {
             looking for a motivated full stack developer with a passion for
             cutting-edge technology and modern frameworks, I'd love to connect!
             👋🚀
-          </p>
+          </p> */}
 
           <ul className="actions">
             <li>
