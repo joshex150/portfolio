@@ -19,21 +19,29 @@ Full Stack Web Developer with expertise in building scalable, responsive web app
 
 ### **Professional Experience**
 
-**Full Stack Developer**  
-_Primar - Abuja_ | _July 2023 – Present_
+**Software Consultant (to the SA TECHNICAL)**  
+_Office of the Honorable Minister of State FCTA_ | _February 2024 - October 2024_
 
-- Developed responsive, interactive user interfaces using React.js, Context API, and TypeScript, improving performance and overall user satisfaction.
-- Built and deployed a scalable **Single Page Application (SPA)** using React and integrated it with a backend (Node.js, Express, MongoDB), improving data flow and user experience.
-- Implemented CI/CD pipelines and automated Docker-based deployments, reducing the time spent on manual processes and ensuring faster rollouts.
-- Collaborated with cross-functional teams to integrate frontend and backend components, ensuring smooth data transfer and API integration.
+- Advised on software solutions to streamline digital processes within the FCTA, achieving a 20% improvement in administrative efficiency.
+- Developed and optimized internal applications using modern web technologies (React, Node.js, and MongoDB), enhancing data access and transparency.
+- Established security protocols and data management practices, ensuring compliance with government standards and protecting sensitive information.
+- Conducted training sessions for staff on new software tools, increasing adoption rates and reducing onboarding time by 25%.
+
+**Full Stack Developer**  
+_Primar - Abuja_ | _July 2023 – January 2024_
+
+- Engineered highly responsive user interfaces using React.js, Context API, and TypeScript, driving a 30% increase in user engagement and application speed.
+- Built a scalable **Single Page Application (SPA)** by integrating a React frontend with a backend (Node.js, Express, MongoDB), optimizing data management and enhancing user experience by 25%.
+- Automated CI/CD pipelines and Docker-based deployments, reducing release cycles by 40% and enabling faster product rollouts.
+- Coordinated with product, design, and backend teams to seamlessly integrate frontend interfaces with RESTful APIs, improving data consistency and system efficiency.
 
 **Web Developer**  
-_Zibara - Lagos_ | _May 2021 – Feb 2023_
+_Zibara - Lagos_ | _May 2020 – February 2023_
 
-- Led the full lifecycle development of web applications, from architecture to deployment and maintenance, resulting in timely and high-quality deliveries.
-- Designed, implemented, and optimized backend services using Node.js, Express, and Firebase, resulting in scalable, high-performance applications.
-- Built interactive and visually appealing user interfaces with React.js, Redux, and JavaScript, increasing **user engagement by 20%**.
-- Utilized testing frameworks such as Jest and Cypress to ensure code reliability and application stability across browsers and devices.
+- Led the end-to-end development of web applications, from design to production deployment, consistently meeting deadlines and exceeding client expectations.
+- Architected and maintained scalable backend services using Node.js, Express, and Firebase, enhancing application performance and scalability by 35%.
+- Created modern, interactive, and visually engaging user interfaces using React.js, Redux, and JavaScript, increasing user engagement by 20%.
+- Ensured application stability by implementing unit and integration tests with Jest, achieving a 95% reduction in post-deployment bugs and issues.
 
 ---
 
