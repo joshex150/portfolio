@@ -14,7 +14,7 @@ const Cell = ({ data }) => (
           {dayjs(data.date).format("MMMM, YYYY")}
         </time>
       </header>
-      <a href={data.link} className="image">
+      <a href={data.link} className="image" style={{ minHeight: "230px" }}>
         <ImageRem
           src={`${process.env.PUBLIC_URL}${data.image}`}
           alt={data.title}
