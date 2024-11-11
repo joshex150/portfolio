@@ -17,7 +17,6 @@ const data = [
     desc: "Manage inventory efficiently with 'Jeel Inventory,' a specialized system designed to simplify stock tracking and inventory operations. Built with React and Vite on the frontend, it provides a fast, responsive user experience. The backend is powered by MongoDB, capturing essential inventory details, such as stock levels, purchase orders, and supplier information. ExpressJS provides a secure and scalable API layer, facilitating data synchronization across all user interfaces. Jeel Inventory’s interface includes features like real-time stock updates, low-stock alerts, and intuitive product search and categorization. With Tailwind CSS for a clean, responsive design and Toast notifications for immediate feedback, Jeel Inventory is tailored to help businesses stay organized and responsive in their inventory management.",
     link: "https://jeel-inventory.vercel.app",
   },
-
   {
     title: "Jeel Main Website",
     subtitle: "A dynamic website for Jeel's brand and product showcase.",
