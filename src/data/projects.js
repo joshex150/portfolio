@@ -2,6 +2,26 @@
 import fox from "../assets/projects/foxcom.png";
 import cmmsDashboard from "../assets/projects/CMMS.png";
 import jeelMainWebsite from "../assets/projects/jeelSite.png";
+import main_jeel1 from "../assets/projects/main_jeel1.webp";
+import main_jeel2 from "../assets/projects/main_jeel2.webp";
+import main_jeel3 from "../assets/projects/main_jeel3.webp";
+import main_jeel4 from "../assets/projects/main_jeel4.webp";
+import main_jeel5 from "../assets/projects/main_jeel5.webp";
+import main_jeel6 from "../assets/projects/main_jeel6.webp";
+import main_jeel7 from "../assets/projects/main_jeel7.webp";
+import jeel1 from "../assets/projects/jeel1.webp";
+import jeel2 from "../assets/projects/jeel2.webp";
+import jeel3 from "../assets/projects/jeel3.webp";
+import jeel4 from "../assets/projects/jeel4.webp";
+import jeel5 from "../assets/projects/jeel5.webp";
+import jeel6 from "../assets/projects/jeel6.webp";
+import jeel7 from "../assets/projects/jeel7.webp";
+import jeel8 from "../assets/projects/jeel8.webp";
+import jeel9 from "../assets/projects/jeel9.webp";
+import jeel10 from "../assets/projects/jeel10.webp";
+import jeel11 from "../assets/projects/jeel11.webp";
+import jeel12 from "../assets/projects/jeel12.webp";
+// import jeel13 from "../assets/projects/jeel13.webp";
 import jeelInventoryDashboard from "../assets/projects/jeelInventory.png";
 import ldMainWebsite from "../assets/projects/landd.png";
 import zibara from "../assets/projects/zibara.webp";
@@ -12,7 +32,21 @@ const data = [
   {
     title: "Jeel Inventory Management",
     subtitle: "A streamlined inventory tracking and management system.",
-    image: jeelInventoryDashboard,
+    image: [
+      jeelInventoryDashboard,
+      jeel1,
+      jeel2,
+      jeel3,
+      jeel4,
+      jeel5,
+      jeel6,
+      jeel7,
+      jeel8,
+      jeel9,
+      jeel10,
+      jeel11,
+      jeel12,
+    ],
     date: "2024-11-08",
     desc: "Manage inventory efficiently with 'Jeel Inventory,' a specialized system designed to simplify stock tracking and inventory operations. Built with React and Vite on the frontend, it provides a fast, responsive user experience. The backend is powered by MongoDB, capturing essential inventory details, such as stock levels, purchase orders, and supplier information. ExpressJS provides a secure and scalable API layer, facilitating data synchronization across all user interfaces. Jeel Inventory’s interface includes features like real-time stock updates, low-stock alerts, and intuitive product search and categorization. With Tailwind CSS for a clean, responsive design and Toast notifications for immediate feedback, Jeel Inventory is tailored to help businesses stay organized and responsive in their inventory management.",
     link: "https://jeel-inventory.vercel.app",
@@ -20,7 +54,16 @@ const data = [
   {
     title: "Jeel Main Website",
     subtitle: "A dynamic website for Jeel's brand and product showcase.",
-    image: jeelMainWebsite,
+    image: [
+      jeelMainWebsite,
+      main_jeel1,
+      main_jeel2,
+      main_jeel3,
+      main_jeel4,
+      main_jeel5,
+      main_jeel6,
+      main_jeel7,
+    ],
     date: "2024-10-15",
     desc: "Discover Jeel through a visually engaging and informative main website, designed to represent the brand’s identity and showcase its products. Built with React and Vite for a fast, responsive experience, the Jeel website combines modern UI/UX design with rich content to engage visitors. MongoDB is used for storing product details, customer reviews, and contact information, allowing for seamless data management and updates. Tailwind CSS enables a sleek, mobile-friendly layout that adapts gracefully to various devices. Key features include an interactive product gallery, a blog section for updates, and a contact form. With React Router for intuitive navigation and animations to enhance user engagement, Jeel’s website presents an inviting digital front for customers and partners alike.",
     link: "https://jeel-teal.vercel.app",

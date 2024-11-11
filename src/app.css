@@ -52,6 +52,7 @@
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
+    outline: 0;
   }
   .post {
     background: #e3e3e3cb;
@@ -98,3 +99,16 @@ input[type="button"],
   user-select: none;
   position: relative;
 }
+button {
+  border: 0;
+}
+/* .slick-track {
+  max-height: 505px;
+  height: 505px;
+}
+@media (max-width: 767px) {
+  .slick-track {
+    max-height: 505px;
+    height: 237.5px;
+  }
+} */
