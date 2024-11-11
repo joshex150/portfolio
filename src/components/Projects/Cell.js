@@ -31,7 +31,7 @@ const Cell = ({ data }) => {
         </header>
         <div className="image-slider">
           <div>
-            <a href={data.link} style={{ minHeight: "230px" }}>
+            <a href={data.link} style={{ minHeight: "330px" }}>
               {Array.isArray(data.image) ? (
                 <Slider {...sliderSettings}>
                   {data.image.map((img, index) => (
