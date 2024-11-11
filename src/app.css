@@ -108,7 +108,7 @@ button {
 }
 @media (max-width: 767px) {
   .slick-track {
-    max-height: 505px;
+    max-height: 200px;
     height: 200px;
   }
 }
