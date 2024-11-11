@@ -30,29 +30,27 @@ const Cell = ({ data }) => {
           </time>
         </header>
         <div className="image-slider">
-          <div>
-            <a href={data.link} style={{ minHeight: "330px" }}>
-              {Array.isArray(data.image) ? (
-                <Slider {...sliderSettings}>
-                  {data.image.map((img, index) => (
-                    <img
-                      key={index}
-                      height={"100%"}
-                      src={`${process.env.PUBLIC_URL}${img}`}
-                      alt={data.title}
-                    />
-                  ))}
-                </Slider>
-              ) : (
-                <img
-                  height={"100%"}
-                  style={{ width: "-webkit-fill-available" }}
-                  src={`${process.env.PUBLIC_URL}${data.image}`}
-                  alt={data.title}
-                />
-              )}
-            </a>
-          </div>
+          <a href={data.link}>
+            {Array.isArray(data.image) ? (
+              <Slider {...sliderSettings} className="h-full">
+                {data.image.map((img, index) => (
+                  <img
+                    key={index}
+                    height={"100%"}
+                    src={`${process.env.PUBLIC_URL}${img}`}
+                    alt={data.title}
+                  />
+                ))}
+              </Slider>
+            ) : (
+              <img
+                height={"100%"}
+                style={{ width: "-webkit-fill-available" }}
+                src={`${process.env.PUBLIC_URL}${data.image}`}
+                alt={data.title}
+              />
+            )}
+          </a>
         </div>
         <div className="description">
           <p>{data.desc}</p>

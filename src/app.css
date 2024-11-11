@@ -102,14 +102,17 @@ input[type="button"],
 button {
   border: 0;
 }
-/* .slick-track {
-  max-height: 505px;
-  height: 505px;
+.h-full {
+  height: 100%;
 }
-*/
+@media (min-width: 1440px) {
+  .mini-post {
+    max-height: 844px;
+  }
+}
 @media (max-width: 767px) {
-  .slick-track {
-    max-height: 200px;
-    height: 200px;
+  .image-slider {
+    max-height: 234px;
+    height: 234px;
   }
 }
