@@ -6,14 +6,14 @@ Full Stack Web Developer with expertise in building scalable, responsive web app
 
 ### **Technical Skills**
 
-- **Frontend:** React.js, Redux, TypeScript, HTML5, CSS3, JavaScript (ES6+), Vite, Tailwind CSS, SASS, Bootstrap
+- **Frontend:** React.js, NEXT.JS, Redux, TypeScript, HTML5, CSS3, JavaScript (ES6+), Vite, Tailwind CSS, SASS, Bootstrap
 - **Backend:** Node.js, Express.js, REST APIs
 - **DevOps/Tools:** Docker, Git, GitHub, CI/CD pipelines, Heroku, Netlify
 - **Testing:** Jest, Postman, Cypress
 - **Version Control:** Git, GitHub
 - **Cloud Services:** AWS (EC2, S3), Firebase, Vercel
 - **Databases:** MongoDB, SQL, Firebase Realtime Database
-- **Others:** Agile Methodologies (Scrum), Jira, Trello
+- **Others:** Agile Methodologies
 
 ---
 
