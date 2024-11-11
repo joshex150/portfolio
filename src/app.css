@@ -102,13 +102,13 @@ input[type="button"],
 button {
   border: 0;
 }
-/* .slick-track {
+.slick-track {
   max-height: 505px;
   height: 505px;
 }
 @media (max-width: 767px) {
   .slick-track {
     max-height: 505px;
-    height: 237.5px;
+    height: 200px;
   }
-} */
+}
