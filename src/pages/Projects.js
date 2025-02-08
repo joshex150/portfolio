@@ -5,11 +5,7 @@ import Cell from "../components/Projects/Cell";
 import data from "../data/projects";
 
 const Projects = () => (
-  <Main
-    fullPage={true}
-    title="Projects"
-    description="Learn about JOSHUA CHRISTIAN's projects."
-  >
+  <Main title="Projects" description="Learn about JOSHUA CHRISTIAN's projects.">
     <article className="post" id="projects">
       <header>
         <div className="title">

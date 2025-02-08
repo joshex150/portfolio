@@ -27,7 +27,7 @@ const data = [
   {
     key: "location",
     label: "Current city",
-    value: "Port Harcourt, PH",
+    value: "Abuja, ABV",
   },
 ];
 
