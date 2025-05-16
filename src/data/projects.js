@@ -89,7 +89,7 @@ const data = [
   {
     title: "Foxcom Synergy LTD",
     subtitle: "An oil and Gas industry servicing company",
-    link: "https://foxcomsynergy.com",
+    link: "https://foxcom.vercel.app",
     image: fox,
     date: "2024-06-28",
     desc: "The best delivering services to the oil and gas industry EPCI, Oil Spill Recovery and Environmental Control, as well as leasing of heavy Equipment, Manpower consultancy, Subsea Engineering not just for today but for Generations to come.",
