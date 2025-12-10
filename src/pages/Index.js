@@ -7,7 +7,7 @@ const Index = () => {
   return (
     <Main
       description={
-        "Christian Joshua's portfolio website. Full Stack Developer and founder of Yean Technologies, showcasing a wide range of innovative projects, skills, and expertise in modern web development and business solutions."
+        "Christian Joshua's portfolio website. Full Stack Developer and founder of Yean Technologies, showcasing projects, skills, and expertise in modern web development and business solutions."
       }
     >
       <article className="post" id="index">
@@ -22,18 +22,17 @@ const Index = () => {
               <Link to="/">About This Site</Link>
             </h2>
             <p>
-              This platform serves as a personal portfolio and a testament to my
-              work as a Full Stack Developer and entrepreneur. Here, you'll
-              discover a range of projects, insights, and technical
-              achievements, all crafted with a focus on innovation, modern web
-              technologies, and user-centered design.
+              This is my personal portfolio where I share my work as a Full
+              Stack Developer and entrepreneur. You'll find projects I've built,
+              things I've learned, and some of the technical stuff I'm proud of.
+              I built this with modern web tech and tried to keep it simple and
+              user-friendly.
             </p>
           </div>
         </header>
         <p>
-          Thank you for visiting! This site is designed to give you a
-          comprehensive overview of who I am, both as a developer and a problem
-          solver. As the founder of{" "}
+          Thanks for stopping by! I built this site to share a bit about who I
+          am as a developer and problem solver. I'm the founder of{" "}
           <a
             href="https://yeantech.com"
             target="_blank"
@@ -41,44 +40,38 @@ const Index = () => {
           >
             <strong>YEAN Technologies</strong>
           </a>
-          , my work revolves around delivering cutting-edge software solutions
-          and driving technological growth for businesses across various
-          industries. You’ll find that my passion for technology is not just
-          about writing code—it's about solving real-world problems, optimizing
-          business processes, and constantly pushing the boundaries of what's
-          possible.
+          , where I work on building software that actually helps businesses.
+          For me, coding isn't just about writing code. It's about solving real
+          problems, making things run smoother, and seeing what's possible when
+          you put technology to work.
         </p>
         <p>
-          On this site, you can learn more <Link to="/about">about me</Link> and
-          my professional background, explore the various{" "}
-          <Link to="/projects">projects</Link> I've been involved in, including
-          both individual work and collaborations with companies. Each project
-          represents a blend of creativity, technical expertise, and a
-          commitment to delivering high-quality results.
+          Feel free to check out the <Link to="/about">about page</Link> to
+          learn more about my background, or browse through the{" "}
+          <Link to="/projects">projects</Link> I've worked on. Some are solo
+          projects, others are collaborations with companies. I try to bring
+          creativity and solid technical skills to everything I build.
         </p>
         <p>
-          For those interested in the technical side, I encourage you to check
-          out the <Link to="/stats">site statistics</Link> page, where you can
-          explore the behind-the-scenes metrics that provide insights into the
-          performance and structure of this site itself. It’s a glimpse into how
-          I approach data-driven decision-making and optimization in my work.
+          If you're into the technical details, take a look at the{" "}
+          <Link to="/stats">site statistics</Link> page. It shows some
+          behind-the-scenes metrics about how this site is built and how it
+          performs. It's a fun way to see how I think about optimization and
+          making things work better.
         </p>
         <p>
-          If you're looking for someone to collaborate with, or if you simply
-          want to chat about web development, technology, or business, feel free
-          to <Link to="/contact">reach out</Link>. I’m always open to discussing
-          new ideas, potential partnerships, or any opportunities where my
-          skills can make an impact. I believe in the power of collaboration,
-          and I’m excited to see how we can work together to create something
-          amazing.
+          Want to collaborate or just chat about web development, technology, or
+          business? Feel free to <Link to="/contact">reach out</Link>. I'm
+          always up for talking about new ideas, potential partnerships, or
+          projects where I can help. I love working with others and seeing what
+          we can build together.
         </p>
         <p>
-          Lastly, I invite you to explore this site fully. It’s not just a
-          static collection of links—there are surprises hidden throughout,
-          designed to inspire curiosity and reward exploration. Take a moment to
-          zoom into the stars and see where your journey here takes you. I hope
-          you enjoy the experience and leave with a deeper understanding of who
-          I am and what drives me as a developer and entrepreneur.
+          Take your time exploring the site. It's not just a bunch of links.
+          There are some fun surprises hidden around if you look for them. Try
+          zooming into the stars and see what you find. I hope you enjoy poking
+          around and get a sense of who I am and what I'm about as a developer
+          and entrepreneur.
         </p>
       </article>
     </Main>
